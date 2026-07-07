@@ -1,2 +1,4 @@
+port: 8945
 workers: 2
+debug: true
 log_level: error
